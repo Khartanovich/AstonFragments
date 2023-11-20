@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AstonFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_fragment_c">move fragment C</string>
+    <string name="move_fragment_b">move fragment B</string>
+    <string name="back">back</string>
+    <string name="some_text">some text</string>
+    <string name="move_fragment_d">move fragment D</string>
+    <string name="move_fragment_a">move fragment A</string>
+    <string name="fragmenta">FragmentA</string>
+    <string name="label_add_user_fragment">label_add_user_fragment</string>
+    <string name="id">id</string>
+    <string name="_null">_null</string>
+    <string name="write_name_and_last_name">write_name_and_last_name</string>
+    <string name="write_phone_number">write_phone_number</string>
+    <string name="save">Save</string>
+    <string name="cansel">cansel</string>
+    <string name="fragmentb">FragmentB</string>
+    <string name="fragmentc">FragmentC</string>
+    <string name="contacts">contacts</string>
+    <string name="fragmentd">FragmentD</string>
+    <string name="go_fragment_a">go Fragment A</string>
+    <string name="go_fragment_contacts">go Fragment Contacts</string>
+    <string name="name">name</string>
+    <string name="phone_number">phone number</string>
+    <string name="write_changing">Внесите изменения</string>
+</resources>
